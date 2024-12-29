@@ -87,13 +87,4 @@
  to understand how Docker fits into modern DevOps workflows.<u></u><u></u></p>
 <p class="MsoNormal"><span style="font-size:11.0pt"><u></u>&nbsp;<u></u></span></p>
 </div>
-
-<div>
-This e-mail, including attachments, may include confidential and/or<br>
-proprietary information, and may be used only by the person or entity<br>
-to which it is addressed. If the reader of this e-mail is not the intended<br>
-recipient or intended recipient’s authorized agent, the reader is hereby<br>
-notified that any dissemination, distribution or copying of this e-mail is<br>
-prohibited. If you have received this e-mail in error, please notify the<br>
-sender by replying to this message and delete this e-mail immediately.<div class="yj6qo"></div><div class="adL"><br>
-</div></div></div>
+</div></div>
